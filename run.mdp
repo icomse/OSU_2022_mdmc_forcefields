@@ -68,8 +68,6 @@ fourier_nz               = 0
 pme_order                = 5
 ewald_rtol               = 1e-6
 ewald_geometry           = 3d
-epsilon_surface          = 0
-optimize_fft             = no
 
 ; OPTIONS FOR WEAK COUPLING ALGORITHMS
 ; Temperature coupling
